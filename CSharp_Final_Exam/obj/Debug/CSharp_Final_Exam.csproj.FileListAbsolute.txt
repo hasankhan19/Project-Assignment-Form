@@ -1,0 +1,10 @@
+C:\Users\Costa\source\repos\CSharp_Final_Exam\bin\Debug\CSharp_Final_Exam.exe.config
+C:\Users\Costa\source\repos\CSharp_Final_Exam\bin\Debug\CSharp_Final_Exam.exe
+C:\Users\Costa\source\repos\CSharp_Final_Exam\bin\Debug\CSharp_Final_Exam.pdb
+C:\Users\Costa\source\repos\CSharp_Final_Exam\obj\Debug\CSharp_Final_Exam.csproj.AssemblyReference.cache
+C:\Users\Costa\source\repos\CSharp_Final_Exam\obj\Debug\CSharp_Final_Exam.ProjectAssignmentForm.resources
+C:\Users\Costa\source\repos\CSharp_Final_Exam\obj\Debug\CSharp_Final_Exam.Properties.Resources.resources
+C:\Users\Costa\source\repos\CSharp_Final_Exam\obj\Debug\CSharp_Final_Exam.csproj.GenerateResource.cache
+C:\Users\Costa\source\repos\CSharp_Final_Exam\obj\Debug\CSharp_Final_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Costa\source\repos\CSharp_Final_Exam\obj\Debug\CSharp_Final_Exam.exe
+C:\Users\Costa\source\repos\CSharp_Final_Exam\obj\Debug\CSharp_Final_Exam.pdb
